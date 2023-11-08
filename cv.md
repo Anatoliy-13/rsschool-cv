@@ -72,4 +72,5 @@ BeonMax
 Course: JavaScript/Front-end. Stage 0
 RS School
 10/2023
-
+Course: JavaScript/Front-end. Stage 1
+RS School
